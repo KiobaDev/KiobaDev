@@ -15,5 +15,10 @@
             <a>⚡ CodeWars: </a><a href="https://www.codewars.com/users/KiobaDev">https://www.codewars.com/users/KiobaDev</a>
  </p>
 </p>
-<h1 align="center">💬 Contact with me via E-Mail below</h1> 
+<h1 align="center">💬 Contact with me via</h1> 
 <h3 align="center">jakub.sarecki.developer@gmail.com</h3>
+ <p align="center">
+ <a><strong>Instagram:</strong></a>  <a href="https://www.instagram.com/kiobadev/">https://www.instagram.com/kiobadev/</a>
+            </br>
+ <a><strong>Facebook:</strong> </a>  <a href="https://www.facebook.com/jakub.sarecki.58">https://www.facebook.com/jakub.sarecki.58/</a>
+ </p>
