@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-I am studing now 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,5 +18,8 @@ I am studing now
 -->
 
 
-  <img src="/images/Logo.png" >
+  
 
+<p align="center">
+ <img src="/images/Logo.png" >
+</p>
