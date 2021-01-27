@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="row">
-  <div class="col-12 text center">
-  <h1>Hello World</h1>
-  </div>
-</div>
 
-<img src="LogoKiobaDev" />
+
+<img src="/images/Logo.png" >
