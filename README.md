@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello World</h1>
+<div class="row">
+  <div class="col-12 text center">
+  <h1>Hello World</h1>
+  </div>
+</div>
+
