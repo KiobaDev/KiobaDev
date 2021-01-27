@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+I am studing now 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,4 +18,5 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="/images/Logo.png" >
+  <img src="/images/Logo.png" >
+
