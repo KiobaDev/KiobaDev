@@ -10,6 +10,7 @@
             <a>⚡ Frameworks: ASP .NET Core | Bootstrap</a>
             <a>⚡ MVC Web Aplications</a>
             <a>⚡ SQL Databases</a>
+            <br/>
             <a>⚡ English: B2 level</a>
             <a>⚡ 3D Graphics: Blender</a>
             </br>
