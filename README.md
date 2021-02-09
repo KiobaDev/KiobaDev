@@ -14,6 +14,7 @@
             <a>⚡ 3D Graphics: Blender</a>
             </br>
  </p>
+
 </p>
 <h1 align="center">💬 Contact with me via</h1> 
 <h3 align="center">E-mail: jakub.sarecki.developer@gmail.com</h3>
@@ -22,7 +23,7 @@
             </br>
  <a><strong>Facebook:</strong> </a>  <a href="https://www.facebook.com/jakub.sarecki.58">https://www.facebook.com/jakub.sarecki.58/</a>
  </p>
-
+ 
 <p align="center">
             <a>⚡ CodeWars: </a><a href="https://www.codewars.com/users/KiobaDev">https://www.codewars.com/users/KiobaDev</a>
             <br/>
