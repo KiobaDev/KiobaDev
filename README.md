@@ -12,6 +12,8 @@
             <a>⚡ SQL Databases</a>
             <br/>
             <a>⚡ English: B2 level</a>
+            <a>⚡ IIS</a>
+            <a>⚡ Azure</a>
             <a>⚡ 3D Graphics: Blender</a>
             </br>
  </p>
